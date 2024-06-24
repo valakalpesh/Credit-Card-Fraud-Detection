@@ -34,7 +34,7 @@ Steps:
 4. Download the dataset:
 
    - The dataset used in this project is not included in the repository due to size constraints.
-   - Download the dataset from provide_link_to_your_dataset.csv and place it in a directory (data/) in the root of your project.
+   - Download the dataset from https://drive.google.com/file/d/1tUFNkZL9KaHETca5-e_Q6UaCvgHuXcMt/view?usp=drive_link and place it in a directory (data/) in the root of your project.
 
 5. Set up MongoDB:
 
